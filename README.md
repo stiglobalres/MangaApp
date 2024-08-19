@@ -1,5 +1,6 @@
 # MangaApp
  
+![mangaapp](https://github.com/user-attachments/assets/866e27d2-d7a8-4a4e-b394-cbac45606539)
 
 
 
