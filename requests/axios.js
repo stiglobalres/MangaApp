@@ -8,7 +8,7 @@ const instanceGet=axios.create({
     headers:{
         'Content-Type' :'application/json',
         'x-rapidapi-host':'mangaverse-api.p.rapidapi.com',
-        'x-rapidapi-key':''
+        'x-rapidapi-key':'23fae9d917msh3568833b2d3237ep1edc18jsn09418feea833'
     }
 })
 
