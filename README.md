@@ -1,10 +1,12 @@
 # MangaApp
  
 
+
+
 Setup Instruction:
 
 Create a project:
-npx react-native@0.72 init MangaApp --version 0.72
+npx react-native init MangaApp
 
 Install Navigation:
 npm install @react-navigation/native
